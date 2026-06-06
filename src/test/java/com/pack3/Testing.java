@@ -21,6 +21,7 @@ public class Testing {
     public void test3() {
 
         System.out.println("Test2");
+<<<<<<< HEAD
         
     }
       
@@ -31,7 +32,11 @@ public class Testing {
         
     }
 
+   @Test
+    public void test4() {
 
+        System.out.println("Test4");
+        }
 
 
 
